@@ -2,8 +2,8 @@ import matplotlib.pyplot as plt
 import random
 import time
 
-# generate random list
-data = [random.randint(10, 100) for _ in range(20)]
+size = int(input("Enter number of elements: "))
+data = [random.randint(10, 100) for _ in range(size)]
 
 def bubble_sort(data):
     n = len(data)
