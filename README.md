@@ -1,4 +1,4 @@
-# AlgoViz — Sorting Algorithm Visualizer
+# Sorting Algorithm Visualizer
 
 An interactive browser-based visualizer for 5 classic sorting algorithms, built with pure **HTML, CSS, and JavaScript** — no libraries, no frameworks, no installation needed.
 
